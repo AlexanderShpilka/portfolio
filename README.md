@@ -1,5 +1,17 @@
 # <p style="text-align: center;">Portfolio</p>
 
+## **Voronina** _(Jul 2020)_
+
+[View application](https://alexandershpilka.github.io/voronina/)
+
+> Landing page
+
+**Technologies used:** HTML, CSS, SCSS, JavaScript, Gulp, BEM
+
+Source code: https://github.com/AlexanderShpilka/voronina
+
+---
+
 ## **Articles** _(Jun 2020)_
 
 [View application](https://articles.alexandershpilka.vercel.app)
