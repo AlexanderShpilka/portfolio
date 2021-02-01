@@ -1,6 +1,6 @@
 # <p style="text-align: center;">Portfolio</p>
 
-## **MyContacts** _(Jul 2020)_
+## **MyContacts** _(Jan 2021)_
 
 [View application](https://alexandershpilka.github.io/myContacts/)
 
